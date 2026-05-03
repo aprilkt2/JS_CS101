@@ -90,7 +90,10 @@ this is a sampling, and each time this data is sampled, the results may vary.)
 rushing home for the weekend)*, then **15:00/Thursday** *(starting to wish for the weekend to come quickly)*.
 <p align="center"><img src="assets/fig11.png" width="900"></p>
 
-
+12. Primary Cause Analysis: Beyond Traffic Devices**
+While my analysis in Point 5 shows that most crashes occur at functional traffic lights in clear weather, the **Primary Contributory Cause** data provides a missing link:
+* **Insight:** Even when devices are present and working, "Failing to yield right-of-way" and "Following too closely" remain the leading human factors.
+* **Conclusion:** This suggests that crashes at controlled intersections are driven by human behavior (impatience/distraction) rather than environmental or mechanical failure. Which should also be considered when analyzing these types of data sets.
 
 
 ### Comments
